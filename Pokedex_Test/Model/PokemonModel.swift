@@ -7,7 +7,7 @@
 //
 
 import Foundation
-//prueba
+
 struct Pokemon: Decodable {
     let name: String
     let id: Int
